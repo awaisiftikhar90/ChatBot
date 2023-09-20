@@ -4,9 +4,12 @@ I used the ChatGPT API to develop the ChatBot App, which is similar to ChatGPT.
 We have seen many apps and websites in which we will get to see a chatbot where we can chat along with the chatbot and can easily get solutions for our questions answered from the chatbot.
 In this article, we will take a look at building a chatbot in Android. 
 
+
 #ChatBot:
 
 ![Screenshot (112)](https://github.com/awaisiftikhar90/ChatBot/assets/43185991/442756e1-e03f-4e75-96ac-b79ac50080ac)
+
+
 
 #ChatUI:
 ![Screenshot (120)](https://github.com/awaisiftikhar90/ChatBot/assets/43185991/7fb59c2b-7b5f-4191-bbe1-873a39bac520)
