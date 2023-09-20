@@ -9,8 +9,7 @@ In this article, we will take a look at building a chatbot in Android.
 ![Screenshot (112)](https://github.com/awaisiftikhar90/ChatBot/assets/43185991/442756e1-e03f-4e75-96ac-b79ac50080ac)
 
 #ChatUI:
-
-![Screenshot (120)](https://github.com/awaisiftikhar90/ChatBot/assets/43185991/b646fd01-265f-4a54-8627-41c56ecf778c)
+![Screenshot (120)](https://github.com/awaisiftikhar90/ChatBot/assets/43185991/7fb59c2b-7b5f-4191-bbe1-873a39bac520)
 
 
 
