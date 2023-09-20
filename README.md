@@ -4,6 +4,25 @@ I used the ChatGPT API to develop the ChatBot App, which is similar to ChatGPT.
 We have seen many apps and websites in which we will get to see a chatbot where we can chat along with the chatbot and can easily get solutions for our questions answered from the chatbot.
 In this article, we will take a look at building a chatbot in Android. 
 
+# Key Features:
+Real-time Conversations: Engage in dynamic conversations with the OpenAI GPT-3 model.
+User-friendly Interface: Simple and intuitive user interface for seamless chatting.
+Message History: Display a history of sent and received messages.
+OpenAI Integration: Utilize the power of the OpenAI API for text completion.
+
+#Get Started:
+
+Clone or download the repository to your local machine.
+Open the project in Android Studio.
+Replace YOUR_API_KEY in callAPI() with your OpenAI API key.
+Build and run the app on your Android device or emulator.
+
+#File Structure:
+
+-MainActivity.java: The main activity managing chat functionality and API calls.
+-Message.java: Data model for individual chat messages.
+-MessageAdapter.java: RecyclerView adapter for displaying messages.
+-chat_item.xml: Layout XML file for the main chat activity.
 
 #ChatBot:
 
