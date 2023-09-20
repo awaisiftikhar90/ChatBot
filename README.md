@@ -36,7 +36,7 @@ Build and run the app on your Android device or emulator.
 
 
 
-# Generating API key for using the chatbot service
+# Generating API key for using the chatbot service:
 Go to Brainshop.ai generate your simple account with your username and password. Simply create your account on this website. After creating a new account you will get to see the below screen. After creating your account you have to request a new password from the request password option and enter your email address. After adding your email address you have to add the password to your account. Now we are good to go to generate our API key. 
 
 ![Screenshot (116)](https://github.com/awaisiftikhar90/ChatBot/assets/43185991/123cebac-6750-4923-9d70-7f45ecaa0a10)
